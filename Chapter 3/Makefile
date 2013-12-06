@@ -1,7 +1,7 @@
 
-#CPPFLAGS += 
+CPPFLAGS += -std=c++11
 
-#CXXFLAGS += -g -Wall -Wextra -pthread
+CXXFLAGS += -g -Wall -Wextra
 
 CXX=g++
 
